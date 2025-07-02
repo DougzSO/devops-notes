@@ -91,4 +91,5 @@ git pull origin nome-da-branch
 
 ---
 
-**Douglas Silva de Oliveira** — Desenvolvedor e Explorador de Ferramentas DevOps ⚙️🚀
+**Douglas Silva de Oliveira** — Mestre em Engenharia Nuclear e da Energia | Engenheiro Eletricista | FullStack Developer (C#, Python, JS) |https://github.com/DougzSO
+
