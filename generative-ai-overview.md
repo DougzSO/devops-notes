@@ -93,4 +93,4 @@ Este conteúdo é livre para uso pessoal e educacional. Para fins comerciais, co
 
 ---
 
-**Douglas Silva de Oliveira** — Estudante e Explorador de IA | `github.com/douglassilvaoliveira`
+**Douglas Silva de Oliveira** — Mestre em Engenharia Nuclear e da Energia | Engenheiro Eletricista | FullStack Developer (C#, Python, JS) |`https://github.com/DougzSO`
