@@ -105,4 +105,4 @@ O **n8n** é uma ferramenta poderosa para quem deseja criar **automação inteli
 
 ---
 
-**Douglas Silva de Oliveira** – Explorador de ferramentas de automação | IA + DevOps + NoCode
+Douglas Silva de Oliveira — Mestre em Engenharia Nuclear e da Energia | Engenheiro Eletricista | FullStack Developer (C#, Python, JS) |https://github.com/DougzSO
