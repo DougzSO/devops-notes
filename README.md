@@ -27,3 +27,4 @@ Este repositório está licenciado sob a [MIT License](LICENSE).
 
 ---
 
+Douglas Silva de Oliveira — Mestre em Engenharia Nuclear e da Energia | Engenheiro Eletricista | FullStack Developer (C#, Python, JS) |https://github.com/DougzSO
